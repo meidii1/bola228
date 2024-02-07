@@ -1,0 +1,4 @@
+requre ("libs")
+
+
+libs.doSomething();
